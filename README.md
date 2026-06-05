@@ -4,27 +4,27 @@ An Android-based Team Collaboration Application built with Kotlin and Firebase.
 
 ## Overview
 
-Collabora is a mobile application designed to help teams collaborate more effectively through task management, team communication, and shared scheduling.
+Collabora is a collaborative team management application designed to help teams organize tasks, communicate in real time, and manage schedules within a centralized workspace.
 
-The application provides a centralized workspace where team members can manage tasks, communicate in real time, and track important deadlines.
+The application enables users to collaborate efficiently through task tracking, team chat, calendar management, and role-based team administration.
 
 ## Features
 
 ### Team Management
 
 * Create and manage teams
-* Invite members using team codes
+* Join teams using invitation codes
 * Role-based collaboration (Admin & Member)
 
 ### Task Management
 
 * Create and assign tasks
-* Track task progress
-* Monitor deadlines and completion status
+* Track task progress and status
+* Manage deadlines efficiently
 
 ### Team Chat
 
-* Real-time team communication
+* Real-time communication between team members
 * Shared workspace discussions
 * Instant message synchronization
 
@@ -32,13 +32,13 @@ The application provides a centralized workspace where team members can manage t
 
 * View upcoming schedules
 * Track project deadlines
-* Manage team activities visually
+* Organize team activities visually
 
 ### User Profile
 
-* User authentication
+* Secure user authentication
 * Profile management
-* Profile image upload with Cloudinary
+* Profile image upload using Cloudinary
 
 ## Tech Stack
 
@@ -49,31 +49,22 @@ The application provides a centralized workspace where team members can manage t
 * Cloudinary
 * Glide
 
-## Screenshots
+## Application Screenshots
 
-### Dashboard
+<p align="center">
+  <img src="screenshots/dashboard.jpeg" alt="Dashboard" width="180"/>
+  <img src="screenshots/team-management.jpeg" alt="Team Management" width="180"/>
+  <img src="screenshots/team-chat.jpeg" alt="Team Chat" width="180"/>
+</p>
 
-![Dashboard](screenshots/dashboard.jpeg)
-
-### Team Management
-
-![Team Management](screenshots/team-management.jpeg)
-
-### Team Chat
-
-![Team Chat](screenshots/team-chat.jpeg)
-
-### Team Calendar
-
-![Calendar](screenshots/calendar.jpeg)
-
-### Profile
-
-![Profile](screenshots/profile.jpeg)
+<p align="center">
+  <img src="screenshots/calendar.jpeg" alt="Calendar" width="180"/>
+  <img src="screenshots/profile.jpeg" alt="Profile" width="180"/>
+</p>
 
 ## Demo Video
 
-🎥 Full Application Walkthrough:
+🎥 Full Application Walkthrough
 
 https://youtu.be/8hDPbpJ3jZ0
 
@@ -86,11 +77,13 @@ Through this project, I gained hands-on experience with:
 * Cloud Firestore real-time database
 * Role-based access management
 * Cloud-based image storage and retrieval
-* UI/UX implementation for mobile applications
+* Mobile UI/UX implementation
+* Team collaboration workflow design
 
 ## Author
 
 **Leonard Kusnadi**
 
-* GitHub: https://github.com/leonkusz
-* Project Repository: https://github.com/leonkusz/Collabora
+GitHub: https://github.com/leonkusz
+
+Project Repository: https://github.com/leonkusz/Collabora
