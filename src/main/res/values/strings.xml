@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="app_name">Collabora</string>
+
+    <string name="login_title">Selamat datang di Collabora 👋</string>
+    <string name="login_subtitle">Masuk untuk mulai berkolaborasi</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_masuk">Masuk</string>
+    <string name="txt_belum_punya_akun">Belum punya akun? </string>
+    <string name="txt_daftar">Daftar</string>
+</resources>
