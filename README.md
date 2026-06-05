@@ -1,188 +1,96 @@
-# **Collabora**
-
-
+# Collabora
 
 An Android-based Team Collaboration Application built with Kotlin and Firebase.
 
-
-
-### **Overview**
-
-
+## Overview
 
 Collabora is a mobile application designed to help teams collaborate more effectively through task management, team communication, and shared scheduling.
 
-
-
 The application provides a centralized workspace where team members can manage tasks, communicate in real time, and track important deadlines.
 
+## Features
 
+### Team Management
 
-### **Features**
+* Create and manage teams
+* Invite members using team codes
+* Role-based collaboration (Admin & Member)
 
+### Task Management
 
+* Create and assign tasks
+* Track task progress
+* Monitor deadlines and completion status
 
-#### **Team Management**
+### Team Chat
 
+* Real-time team communication
+* Shared workspace discussions
+* Instant message synchronization
 
+### Team Calendar
 
-\* Create and manage teams
+* View upcoming schedules
+* Track project deadlines
+* Manage team activities visually
 
-\* Invite members using team codes
+### User Profile
 
-\* Role-based collaboration (Admin \& Member)
+* User authentication
+* Profile management
+* Profile image upload with Cloudinary
 
+## Tech Stack
 
+* Kotlin
+* Android Studio
+* Firebase Authentication
+* Cloud Firestore
+* Cloudinary
+* Glide
 
-#### **Task Management**
+## Screenshots
 
+### Dashboard
 
+![Dashboard](screenshots/dashboard.jpeg)
 
-\* Create and assign tasks
+### Team Management
 
-\* Track task progress
+![Team Management](screenshots/team-management.jpeg)
 
-\* Monitor deadlines and completion status
+### Team Chat
 
+![Team Chat](screenshots/team-chat.jpeg)
 
+### Team Calendar
 
-#### **Team Chat**
+![Calendar](screenshots/calendar.jpeg)
 
+### Profile
 
+![Profile](screenshots/profile.jpeg)
 
-\* Real-time team communication
+## Demo Video
 
-\* Shared workspace discussions
-
-\* Instant message synchronization
-
-
-
-#### **Team Calendar**
-
-
-
-\* View upcoming schedules
-
-\* Track project deadlines
-
-\* Manage team activities visually
-
-
-
-#### **User Profile**
-
-
-
-\* User authentication
-
-\* Profile management
-
-\* Profile image upload with Cloudinary
-
-
-
-### **Tech Stack**
-
-
-
-\* Kotlin
-
-\* Android Studio
-
-\* Firebase Authentication
-
-\* Cloud Firestore
-
-\* Cloudinary
-
-\* Glide
-
-
-
-### **Screenshots**
-
-
-
-#### **Dashboard**
-
-
-
-!\[Dashboard](screenshots/dashboard.jpeg)
-
-
-
-#### **Team Management**
-
-
-
-!\[Team Management](screenshots/team-management.jpeg)
-
-
-
-#### **Team Chat**
-
-
-
-!\[Team Chat](screenshots/team-chat.jpeg)
-
-
-
-#### **Team Calendar**
-
-
-
-!\[Team Chat](screenshots/team-chat.jpeg)
-
-
-
-#### **Profile**
-
-
-
-!\[Profile](screenshots/profile.jpeg)
-
-
-
-### **Demo Video**
-
-
-
-Full application walkthrough:
-
-
+🎥 Full Application Walkthrough:
 
 https://youtu.be/8hDPbpJ3jZ0
 
-
-
-### **Learning Outcomes**
-
-
+## Learning Outcomes
 
 Through this project, I gained hands-on experience with:
 
+* Android application development using Kotlin
+* Firebase Authentication integration
+* Cloud Firestore real-time database
+* Role-based access management
+* Cloud-based image storage and retrieval
+* UI/UX implementation for mobile applications
 
+## Author
 
-\* Android application development using Kotlin
+**Leonard Kusnadi**
 
-\* Firebase Authentication integration
-
-\* Cloud Firestore real-time database
-
-\* Role-based access management
-
-\* Cloud-based image storage and retrieval
-
-\* UI/UX implementation for mobile applications
-
-
-
-### **Author**
-
-
-
-Leonard Kusnadi
-
-
-
+* GitHub: https://github.com/leonkusz
+* Project Repository: https://github.com/leonkusz/Collabora
